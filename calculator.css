@@ -1,0 +1,93 @@
+h2 {
+	font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: -5px;
+    font-weight: bolder;
+	}
+
+#clear{
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 10px;
+    box-shadow:0 8px 8px rgba(0, 0, 0, .5);
+    text-align: right;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 18px;
+    background-color: #46005f;
+}
+
+.formstyle
+{
+    width: 385px;
+    height: 620px;
+    margin-left: 580px;
+    margin-right: 580px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+    background-color: #ecdff5;
+    box-shadow:20px 40px 40px rgba(0, 0, 0, .5);
+}
+
+input[type=button]{
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 10px;
+    box-shadow:0 8px 8px rgba(0, 0, 0, .5);
+    text-align: right;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 18px;
+    background-color: #a56cbd;
+    color: white;
+    font-weight: bold;
+}
+
+#calc
+{
+    width:350px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    margin-top: -20px;
+    box-shadow:0 5px 5px rgba(0, 0, 0, .5);
+    text-align: right;
+    font-size: xx-large;
+    margin-left: 18px;
+    font-weight: bolder;
+}
+#equal{
+    width: 165px;
+    border: none;
+    border-radius: 10px;
+    box-shadow:0 8px 8px rgba(0, 0, 0, .5);
+    text-align: right;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 18px;
+    background-color: #46005f;
+}
+#operator1{
+    background-color: #813eb6;
+}
+#operator2{
+    background-color: #813eb6;
+}
+#operator3{
+    background-color: #813eb6;
+}
+#operator4{
+    background-color: #813eb6;
+}
+#operator5{
+    background-color: #813eb6;
+}
+#operator6{
+    background-color: #813eb6;
+}
